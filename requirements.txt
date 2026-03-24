@@ -1,0 +1,5 @@
+faster-whisper>=1.0.3
+transformers>=4.40.0
+torch>=2.2.0
+accelerate>=0.28.0
+sentencepiece>=0.1.99
