@@ -1,0 +1,13 @@
+{
+  "transcript": "Patient reports experiencing chest pain for the past 2 days. The pain is described as sharp and intermittent. Blood pressure recorded at 140/90 mmHg and heart rate is 95 bpm. Based on symptoms and vitals, the patient is diagnosed with possible hypertension. The patient is prescribed antihypertensive medication and advised to follow up in one week.",
+  "soap_note": {
+    "subjective": "Patient reports experiencing chest pain for the past 2 days. The pain is described as sharp and intermittent.",
+    "objective": "Blood pressure is 140/90 mmHg and heart rate is 95 bpm.",
+    "assessment": "Possible hypertension based on symptoms and vital signs.",
+    "plan": "Prescribed antihypertensive medication and advised follow-up in one week."
+  },
+  "validation": {
+    "is_valid": true,
+    "issues": []
+  }
+}
